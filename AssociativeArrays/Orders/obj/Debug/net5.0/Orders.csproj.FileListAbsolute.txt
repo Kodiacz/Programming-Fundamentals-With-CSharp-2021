@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\ref\Orders.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\ref\Orders.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.genruntimeconfig.cache

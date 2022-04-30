@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.genruntimeconfig.cache

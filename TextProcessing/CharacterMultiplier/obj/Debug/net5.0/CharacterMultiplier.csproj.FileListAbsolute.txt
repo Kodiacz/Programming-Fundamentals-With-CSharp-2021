@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\ref\CharacterMultiplier.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\ref\CharacterMultiplier.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.genruntimeconfig.cache

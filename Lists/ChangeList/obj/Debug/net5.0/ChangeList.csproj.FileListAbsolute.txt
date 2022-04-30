@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ChangeList.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ChangeList.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ChangeList.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ref\ChangeList.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\bin\Debug\net5.0\ChangeList.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ref\ChangeList.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ChangeList\obj\Debug\net5.0\ChangeList.genruntimeconfig.cache

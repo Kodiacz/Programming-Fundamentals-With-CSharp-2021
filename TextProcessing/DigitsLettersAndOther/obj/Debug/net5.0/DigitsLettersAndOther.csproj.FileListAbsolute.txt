@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\DigitsLettersAndOther.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\DigitsLettersAndOther.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\DigitsLettersAndOther.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\DigitsLettersAndOther.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\ref\DigitsLettersAndOther.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\bin\Debug\net5.0\DigitsLettersAndOther.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\ref\DigitsLettersAndOther.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\DigitsLettersAndOther\obj\Debug\net5.0\DigitsLettersAndOther.genruntimeconfig.cache

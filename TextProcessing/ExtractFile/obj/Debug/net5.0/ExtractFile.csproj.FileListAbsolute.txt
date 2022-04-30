@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ref\ExtractFile.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ref\ExtractFile.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.genruntimeconfig.cache

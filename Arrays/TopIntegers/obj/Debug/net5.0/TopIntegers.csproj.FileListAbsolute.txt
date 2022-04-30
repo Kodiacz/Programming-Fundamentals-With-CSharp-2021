@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\ref\TopIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\ref\TopIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.genruntimeconfig.cache

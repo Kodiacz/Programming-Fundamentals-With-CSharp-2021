@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\CondenseArrayToNumber.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\CondenseArrayToNumber.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\CondenseArrayToNumber.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\CondenseArrayToNumber.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\ref\CondenseArrayToNumber.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\bin\Debug\net5.0\CondenseArrayToNumber.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\ref\CondenseArrayToNumber.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\CondenseArrayToNumber\obj\Debug\net5.0\CondenseArrayToNumber.genruntimeconfig.cache

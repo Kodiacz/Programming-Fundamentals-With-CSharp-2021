@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\MathPower.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\MathPower.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\MathPower.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\MathPower.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\MathPower.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\ref\MathPower.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\bin\Debug\net5.0\MathPower.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\ref\MathPower.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathPower\obj\Debug\net5.0\MathPower.genruntimeconfig.cache

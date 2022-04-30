@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\CardsGame.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\CardsGame.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\CardsGame.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\ref\CardsGame.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\bin\Debug\net5.0\CardsGame.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\ref\CardsGame.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\CardsGame\obj\Debug\net5.0\CardsGame.genruntimeconfig.cache

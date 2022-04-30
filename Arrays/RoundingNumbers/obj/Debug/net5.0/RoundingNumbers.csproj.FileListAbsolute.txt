@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\ref\RoundingNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\ref\RoundingNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\CharactersInRange.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\CharactersInRange.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\CharactersInRange.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\CharactersInRange.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\CharactersInRange.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\ref\CharactersInRange.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\bin\Debug\net5.0\CharactersInRange.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\ref\CharactersInRange.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.genruntimeconfig.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CharactersInRange\obj\Debug\net5.0\CharactersInRange.csprojAssemblyReference.cache

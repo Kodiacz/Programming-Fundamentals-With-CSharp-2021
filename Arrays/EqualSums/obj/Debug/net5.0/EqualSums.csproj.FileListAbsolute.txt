@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\EqualSums.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\EqualSums.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\EqualSums.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\EqualSums.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\EqualSums.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\ref\EqualSums.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\bin\Debug\net5.0\EqualSums.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\ref\EqualSums.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\EqualSums\obj\Debug\net5.0\EqualSums.genruntimeconfig.cache

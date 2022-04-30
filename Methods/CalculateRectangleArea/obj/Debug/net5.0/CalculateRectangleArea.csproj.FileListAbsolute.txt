@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\ref\CalculateRectangleArea.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\ref\CalculateRectangleArea.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.genruntimeconfig.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csprojAssemblyReference.cache

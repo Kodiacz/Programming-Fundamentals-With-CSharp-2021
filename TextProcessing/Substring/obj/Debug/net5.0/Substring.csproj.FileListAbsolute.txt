@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\Substring.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\Substring.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\Substring.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\Substring.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\Substring.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\ref\Substring.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\bin\Debug\net5.0\Substring.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\ref\Substring.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.genruntimeconfig.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\Substring\obj\Debug\net5.0\Substring.csprojAssemblyReference.cache

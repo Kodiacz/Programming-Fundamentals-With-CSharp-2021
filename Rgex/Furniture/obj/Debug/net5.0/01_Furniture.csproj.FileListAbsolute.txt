@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\01_Furniture.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\01_Furniture.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\01_Furniture.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\01_Furniture.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\01_Furniture.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\ref\01_Furniture.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\bin\Debug\net5.0\01_Furniture.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\ref\01_Furniture.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\Furniture\obj\Debug\net5.0\01_Furniture.genruntimeconfig.cache

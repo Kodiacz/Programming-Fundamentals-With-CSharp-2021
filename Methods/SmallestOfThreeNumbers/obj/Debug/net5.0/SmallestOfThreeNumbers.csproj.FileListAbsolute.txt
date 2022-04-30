@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\ref\SmallestOfThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\ref\SmallestOfThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.genruntimeconfig.cache

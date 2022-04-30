@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\HouseParty.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\HouseParty.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\HouseParty.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\HouseParty.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\HouseParty.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\ref\HouseParty.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\bin\Debug\net5.0\HouseParty.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\ref\HouseParty.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\HouseParty\obj\Debug\net5.0\HouseParty.genruntimeconfig.cache

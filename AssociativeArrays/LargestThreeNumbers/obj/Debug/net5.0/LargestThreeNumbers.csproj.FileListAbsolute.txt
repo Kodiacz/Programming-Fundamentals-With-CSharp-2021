@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\ref\LargestThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\ref\LargestThreeNumbers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.genruntimeconfig.cache

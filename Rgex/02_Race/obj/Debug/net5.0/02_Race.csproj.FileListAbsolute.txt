@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\02_Race.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\02_Race.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\02_Race.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\02_Race.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\02_Race.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\ref\02_Race.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\bin\Debug\net5.0\02_Race.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\ref\02_Race.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\02_Race\obj\Debug\net5.0\02_Race.genruntimeconfig.cache

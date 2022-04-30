@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\MathOperations.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\MathOperations.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\MathOperations.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\MathOperations.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\MathOperations.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\ref\MathOperations.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\bin\Debug\net5.0\MathOperations.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\ref\MathOperations.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MathOperations\obj\Debug\net5.0\MathOperations.genruntimeconfig.cache

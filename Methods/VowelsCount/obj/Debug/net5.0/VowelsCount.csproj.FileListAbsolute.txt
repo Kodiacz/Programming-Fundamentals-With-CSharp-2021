@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\VowelsCount.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\VowelsCount.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\VowelsCount.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\ref\VowelsCount.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\bin\Debug\net5.0\VowelsCount.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\ref\VowelsCount.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\VowelsCount\obj\Debug\net5.0\VowelsCount.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\ref\GreaterOfTwoValues.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\ref\GreaterOfTwoValues.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.genruntimeconfig.cache

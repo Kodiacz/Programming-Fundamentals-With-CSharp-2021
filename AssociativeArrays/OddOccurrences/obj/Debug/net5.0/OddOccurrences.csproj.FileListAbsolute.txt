@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\OddOccurrences.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\OddOccurrences.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\OddOccurrences.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\OddOccurrences.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\OddOccurrences.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\ref\OddOccurrences.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\bin\Debug\net5.0\OddOccurrences.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\ref\OddOccurrences.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\AssociativeArrays\OddOccurrences\obj\Debug\net5.0\OddOccurrences.genruntimeconfig.cache

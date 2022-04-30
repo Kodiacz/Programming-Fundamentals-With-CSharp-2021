@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ReverseIntegers.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ReverseIntegers.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ReverseIntegers.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ReverseIntegers.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ReverseIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ref\ReverseIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\bin\Debug\net5.0\ReverseIntegers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ref\ReverseIntegers.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Arrays\ReverseIntegers\obj\Debug\net5.0\ReverseIntegers.genruntimeconfig.cache

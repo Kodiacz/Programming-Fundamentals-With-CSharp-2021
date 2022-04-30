@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\ref\RepeatStrings.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\ref\RepeatStrings.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.genruntimeconfig.cache

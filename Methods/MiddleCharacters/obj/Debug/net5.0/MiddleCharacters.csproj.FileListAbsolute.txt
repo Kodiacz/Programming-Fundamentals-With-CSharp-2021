@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\ref\MiddleCharacters.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\ref\MiddleCharacters.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Methods\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.genruntimeconfig.cache

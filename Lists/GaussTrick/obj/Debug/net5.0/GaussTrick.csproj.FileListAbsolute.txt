@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\GaussTrick.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\GaussTrick.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\GaussTrick.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\ref\GaussTrick.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\bin\Debug\net5.0\GaussTrick.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\ref\GaussTrick.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Lists\GaussTrick\obj\Debug\net5.0\GaussTrick.genruntimeconfig.cache

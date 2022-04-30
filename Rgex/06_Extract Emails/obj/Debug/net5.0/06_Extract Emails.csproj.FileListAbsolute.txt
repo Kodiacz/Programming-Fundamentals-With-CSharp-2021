@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\06_Extract Emails.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\06_Extract Emails.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\06_Extract Emails.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\06_Extract Emails.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\06_Extract Emails.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\ref\06_Extract Emails.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\bin\Debug\net5.0\06_Extract Emails.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\ref\06_Extract Emails.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\Rgex\06_Extract Emails\obj\Debug\net5.0\06_Extract Emails.genruntimeconfig.cache
